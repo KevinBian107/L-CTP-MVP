@@ -1,6 +1,8 @@
 # Toy MVP Illustration 🏰
 This section provide two fully self-contained toy training scripts (Supervised & RL) for illustrtaing how topological data analysis can be used for machine learning interpretation.
 
+- The real repository for this MV repository is located here: [Learning from a Computational Topology Perspective](https://github.com/KevinBian107/L-CTP)
+
 ## Topological Structures 🏗️
 we perform TDA on the point-clouds of (1) sampled states (i.e., the inputs) and (2) the hidden-layer activations (both actor and critic) as those states are fed forward through the network.
 
