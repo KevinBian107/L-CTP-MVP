@@ -1,0 +1,11 @@
+results_original/
+results_mnist/
+results/
+results_rl_hopper/
+results_rl_walker/
+results_rl_bipedal/
+wandb/
+videos/
+checkpoints/
+MNIST/
+__pycache__
